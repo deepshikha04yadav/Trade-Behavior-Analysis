@@ -57,15 +57,15 @@ streamlit run dashboard.py
 Explore trader PnL by sentiment, download tables, and visualize trends interactively.
 
 ## 🔑 Features
-* Automated Data Merging & Cleaning: All records synchronized by date and sentiment state.
+* __Automated Data Merging & Cleaning:__ All records synchronized by date and sentiment state.
 
-* Feature Engineering: Daily and sentiment-based metrics—PnL, win rate, trade count, risk indicators.
+* __Feature Engineering:__ Daily and sentiment-based metrics—PnL, win rate, trade count, risk indicators.
 
-* Exploratory Analysis: Notebooks for statistical testing and in-depth behavioral discovery.
+* __Exploratory Analysis:__ Notebooks for statistical testing and in-depth behavioral discovery.
 
-* Streamlit Dashboard: Interactive charts, summary KPIs, table explorer, and export tools.
+* __Streamlit Dashboard:__ Interactive charts, summary KPIs, table explorer, and export tools.
 
-* Customizable Pipeline: Adaptable for new data or exchange sources as needed.
+* __Customizable Pipeline:__ Adaptable for new data or exchange sources as needed.
 
 ## 📷 Dashboard Preview
 <img width="1277" height="629" alt="image" src="https://github.com/user-attachments/assets/cc17cf10-aeb6-4c7e-ad94-3c80697cf700" />
