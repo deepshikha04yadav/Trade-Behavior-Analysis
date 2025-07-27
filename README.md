@@ -43,8 +43,7 @@ Add your trading and fear/greed index CSV files to the data/ directory.
 * Example source:
 
   * Trader Data: historical_trader_data.csv
-
- * Sentiment Data: fear_greed_index.csv
+  *Sentiment Data: fear_greed_index.csv
 
 ### 4. Run exploratory analysis
 Jupyter notebooks in notebooks/ walk through data preparation, feature engineering, and initial visualizations.
