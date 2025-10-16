@@ -2,6 +2,9 @@
 
 Explore the relationship between crypto market sentiment and trader performance on Hyperliquid.
 
+## Dashboard
+Streamlit : [Dashboard](https://deepshikha04yadav-trade-behavior-analysis.streamlit.app)
+
 ## 📊 Project Overview
 Trade-Behavior-Analysis investigates how Bitcoin market sentiment ("Fear" vs "Greed") influences trader outcomes. By combining market sentiment data with detailed historical trading records, this project discovers performance patterns, risk profiles, and actionable behaviors that can drive smarter trading strategies.
 
