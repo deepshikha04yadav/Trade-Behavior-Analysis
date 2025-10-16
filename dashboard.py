@@ -6,8 +6,8 @@ import seaborn as sns
 # ---------- Data Loading ----------
 @st.cache_data
 def load_data():
-    feat = pd.read_csv("D:\\Python_Training\\Trade-behavior\\outputs\\trader_features_by_day.csv", parse_dates=['date'])
-    sentiment_summary = pd.read_csv("D:\\Python_Training\\Trade-behavior\\outputs\\features_by_sentiment.csv")
+    feat = pd.read_csv("../outputs/trader_features_by_day.csv", parse_dates=['date'])
+    sentiment_summary = pd.read_csv("../outputs/features_by_sentiment.csv")
     return feat, sentiment_summary
 
 feat, sentiment_summary = load_data()
